@@ -1,0 +1,126 @@
+#homepage-section1{
+    background:  url('../img/background-image1.jpg');
+}
+
+#homepage-section1 p {
+  color: #FFFFFF;
+  text-align: justify;
+    
+  padding: 10px 10px 0px 10px;
+  line-height: 22px;
+  /* background: rgb(33, 181, 119); */
+  border-radius: 10px;
+}
+.navbar-nav>li>a {
+  color: #197CC0;
+}
+#homepage-section2{
+    background: white;
+  }
+#whatwedo{
+    
+     /* background: url('../img/magic-pixel.png') repeat top left, url('../img/backdrop.jpg') repeat-y; */
+}
+
+#whatwedo{
+    padding: 37px 0;
+}
+#whatwedo p {
+  /* background: rgb(243, 243, 243); */
+  color: #68696A;
+  text-align: center;
+  height: 125px;
+  /* border-radius: 58px; */
+  line-height: 25px;
+  /* height: 250px; */
+  /* width: 250px; */
+  /* padding-top: 60px; */
+  /* padding-left: 5px; */
+  /* padding-right: 5px; */
+}
+#whatwedo h1{
+  color: #FDF9F9;
+}
+
+
+#whatwedo span {
+    color: rgb(25, 124, 192);
+}
+.what-we-do-section h4 {
+    color: #F3F3F3;
+}
+
+.idea-section{
+    
+}
+.idea-section h1 {
+  padding-top: 70px;
+  font-size: 4em;
+  color: rgb(35, 35, 35);
+}
+
+#services p {
+  color: #4E9CD5;
+  text-align: justify;
+
+  /* text-align: inherit; */
+  line-height: 21px;
+  text-align: ju;
+  font-size: 18px;
+  /* letter-spacing: 13px; */
+}
+
+#services h3 {
+    font-size: 24px;
+ 
+    text-align: -webkit-center;
+    color: rgb(176, 154, 154);
+}
+
+.l-service-section {
+    
+   background: url('../img/magic-pixel.png') repeat top left, url('../img/background-image1.jpg');
+}
+
+.l-client-section{
+    padding: 0px 0px;
+    margin: 10px 0px 0px;
+        
+    /* background: url('../img/magic-pixel.png') repeat top left, url('../img/slider-background.gif'); */
+    background: rgb(255, 255, 255);
+}
+
+
+
+.l-client-section img {
+    height: 2%;
+    width: 20%;
+    padding-right: 20px;
+    padding-bottom: 47px;
+}
+
+.l-client-section ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.l-client-section li {
+    display: inline;
+}
+
+.l-client-section h4 {
+    padding-top: 40px;
+    font-size: 2.5em;
+}
+
+#about p {
+    text-align: justify;
+    
+}
+
+#about h1 {
+    text-align: center;
+    
+    font-size: 42px;
+}

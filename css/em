@@ -1,0 +1,22 @@
+#homepage-section1{
+    background:  url('../img/background-image1.jpg');
+}
+
+#homepage-section1 p {
+  color: #FFFFFF;
+  text-align: justify;
+  line-height: 22px;
+}
+.navbar-nav>li>a {
+  color: #197CC0;
+}
+#homepage-section2{
+    background: white;
+  }
+
+#whatwedo h1{
+  color: #FDF9F9;
+}
+.what-we-do-section h4 {
+    color: #28C5EA;
+}
